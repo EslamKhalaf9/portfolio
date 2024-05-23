@@ -14,6 +14,9 @@ export default function MainNavbar() {
             <Link href="/projects" className="text-foreground hover:text-primary transition-colors text-xl">Projects</Link>
           </li>
           <li>
+            <Link href="/blogs" className="text-foreground hover:text-primary transition-colors text-xl">Blogs</Link>
+          </li>
+          <li>
             <Link href="/contact" className="text-foreground hover:text-primary transition-colors text-xl">Contact</Link>
           </li>
         </ul>
