@@ -16,7 +16,7 @@ const AboutMeSection = () => {
             as a developer.
           </p>
           <p className="text-gray-600 dark:text-gray-400 mt-4">
-            <a href="https://drive.google.com/file/d/1UzJPF2DaXx1JInIewwJzWw4D13aBQvuZ/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/1BMENgZ5YoSNH5rg1S885mav44cJmTPw9/view?usp=sharing" target="_blank">
               <Button variant="outline" className="text-2xl border-primary text-primary">
                 Get My CV
               </Button>

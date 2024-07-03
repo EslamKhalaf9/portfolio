@@ -5,7 +5,7 @@ import { ProjectsSection } from "@/components/porjects-section";
 
 export default function Home() {
   return (
-    <main className="pt-20">
+    <main>
       <LandingSection />
       <AboutMeSection />
       <ProjectsSection />

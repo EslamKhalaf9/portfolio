@@ -3,17 +3,17 @@ import { GithubIcon, Linkedin, LinkedinIcon, X } from "lucide-react"
 const socialLinks = [
   {
     name: "Linkedin",
-    icon: <LinkedinIcon />,
+    icon: <LinkedinIcon className="hover:text-primary" />,
     url: "https://www.linkedin.com/in/eslam-khalaf/"
   },
   {
     name: "Github",
-    icon: <GithubIcon />,
+    icon: <GithubIcon className="hover:text-primary" />,
     url: "https://github.com/eslamkhalaf9"
   },
   {
     name: "Twitter",
-    icon: <X />,
+    icon: <X className="hover:text-primary" />,
     url: "https://twitter.com/eslamkhalaf20"
   },
 ]
