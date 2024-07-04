@@ -13,8 +13,8 @@ const LandingSection = () => {
       backgroundAttachment: "fixed",
     }}>
       <div className="flex flex-col gap-2 items-center justify-center text-center text-foreground font-bold text-shadow-lg bg-black w-full min-h-[90vh] bg-opacity-35">
-        <h1 className="text-6xl mb-8 text-primary">Eslam Khalaf</h1>
-        <span className="text-2xl w-1/2 leading-9 font-light">
+        <h1 className="lg:text-6xl text-4xl mb-8 text-primary">Eslam Khalaf</h1>
+        <span className="text-2xl md:w-1/2 md:leading-9 font-light">
           I&apos;m a full-stack developer I love building things, learning new technologies, and sharing knowledge.
         </span>
         <div className="flex items-center gap-4 mt-8">

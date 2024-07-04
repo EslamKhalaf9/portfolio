@@ -5,8 +5,8 @@ export default function MainNavbar() {
   return (
     <nav className="border-b-4 border-primary bg-background fixed w-full">
       <div className="container h-[10vh] flex items-center justify-between justify-items-center">
-        <h1 className="text-3xl uppercase">Eslam Khalaf</h1>
-        <ul className="flex gap-6">
+        <h1 className="lg:text-3xl uppercase text-md md:block hidden">Eslam Khalaf</h1>
+        <ul className="flex md:gap-6 gap-3">
           <li>
             <Link href="#landing" className=" hover:text-foreground transition-colors text-xl">Home</Link>
           </li>
